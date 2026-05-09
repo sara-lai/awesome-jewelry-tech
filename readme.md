@@ -20,6 +20,7 @@ A curated list of jewelry technology worth knowing about, spanning bench equipme
 - [CNC](#cnc)
 - [Cleaning, Polishing & Finishing](#cleaning-polishing--finishing)
 - [Coating & Plating](#coating--plating)
+- [Enameling](#enameling)
 - [Laser Marking & Inscription](#laser-marking--inscription)
 - [Laser Cutting](#laser-cutting)
 - [Gem Faceting](#gem-faceting)
@@ -136,6 +137,14 @@ A curated list of jewelry technology worth knowing about, spanning bench equipme
 - [Legor](https://www.legor.com) - Plating chemistry, alloys, and PVD coating systems for jewelry.
 - [Atotech](https://www.atotech.com) - Industrial-scale plating chemistry for high-volume production.
 - [Technic Inc.](https://www.technic.com) - Industrial plating chemistry and full bath systems.
+
+## Enameling
+
+- [Hot Shot Ovens](https://www.hotshotovens.com) - Compact dedicated enameling kilns (HS-7G) sized for jewelry studios.
+- [Paragon Kilns](https://paragonkilns.com) - American kiln maker since 1948 with jewelry-specific small-format models built for enameling.
+- [Prometheus Kilns](https://www.prometheushobby.com) - Turkish-made compact enameling kilns popular at small-studio scale.
+- [Spinks EPIC](https://www.spinksworld.com/markets-industrial-solutions/printing-cold-enameling-inks-and-laser-marking-machine) - Automated multi-color cold-enameling and pad-printing system for production runs of pendants, charms, and bangles.
+- [Thompson Enamel](https://thompsonenamel.com) - American enamel-powder maker, the de facto industry standard for jewelry enameling supplies.
 
 ## Laser Marking & Inscription
 
@@ -277,7 +286,7 @@ A curated list of jewelry technology worth knowing about, spanning bench equipme
 
 ## Contributing
 
-See [contributing.md](contributing.md). Submissions must meet a minimum bar of notability, differentiation, or significant industry recognition.
+See [contributing.md](contributing.md).
 
 ## License
 
