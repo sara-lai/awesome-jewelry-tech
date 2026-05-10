@@ -247,6 +247,8 @@ A curated list of tools, equipment, instruments, and software across the breadth
 
 - [3Design](https://www.3design.com) - Parametric jewelry CAD popular in Europe.
 - [Adobe Fresco](https://www.adobe.com/products/fresco.html) - Natural-media drawing and painting app for iPad and Windows used for illustration sketches and design boards.
+- [Grasshopper Gold](https://www.food4rhino.com/en/app/grasshopper-gold) - Open-source library of parametric jewelry tools for Grasshopper, Rhino's algorithmic environment.
+- [JewelBeetle](https://www.jewelbeetle.com) - Newer jewelry CAD built on Rhino, focused on speed and ease of use.
 - [JewelCAD Pro](http://www.jewelcadpro.com) - Long-running jewelry CAD with a strong following in Asia.
 - [MatrixGold (Gemvision)](https://gemvision.com) - Industry-standard parametric jewelry CAD built on Rhino.
 - [Procreate](https://procreate.com) - iPad illustration app widely used by jewelry designers for hand-sketched concepts and rendered design boards.
