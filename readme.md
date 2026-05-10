@@ -52,6 +52,8 @@ A curated list of tools, equipment, instruments, and software across the breadth
 - [GRS GraverSmith](https://www.grstools.com) - Workshop-standard pneumatic graver console used for both engraving and production stone setting.
 - [GRS GraverMach AT](https://www.grstools.com) - Higher-end GRS power unit favored by full-time engravers.
 - [Lindsay AirGraver](https://www.lindsayengraving.com) - Pneumatic graver, a reference for hand engraving.
+- [PepeTools IronBrush](https://pepetools.com/products/ironbrush%E2%84%A2-pneumatic-engraving-tool) - Pneumatic engraver and stone-setting tool released in 2025, expanding PepeTools' bench equipment line.
+- [Andu Engraving](https://anduengraving.com) - Lower-cost pneumatic engravers; a common entry option for jewelers getting into hand engraving without the GRS or Lindsay investment.
 - [Gravograph](https://www.gravograph.com) - Computerized engraving and marking systems used in retail jewelry.
 
 ## Bench Tools
@@ -109,9 +111,11 @@ A curated list of tools, equipment, instruments, and software across the breadth
 
 ## 3D Scanning
 
-- [Solutionix (Medit)](https://www.medit.com/industrial) - Korean structured-light 3D scanners (D-Series, C-Series) with jewelry-specific models, now part of Medit.
-- [Smartoptics](https://www.smartoptics.de) - German 3D scanners used in jewelry and dental.
+- [Artec 3D](https://www.artec3d.com/3d-scanning-solutions/jewelry) - Professional turnkey 3D scanners (Micro II, Spider II, Point) with 5–20 micron accuracy for jewelry and small-object work.
+- [OpenScan](https://openscan.eu) - Open-source DIY photogrammetry scanner; cheap and reliable for small-object work, with the Mini variant suited to jewelry-scale pieces.
 - [Shining3D](https://www.shining3d.com) - 3D scanning systems with jewelry-focused models in their lineup.
+- [Smartoptics](https://www.smartoptics.de) - German 3D scanners used in jewelry and dental.
+- [Solutionix (Medit)](https://www.medit.com/industrial) - Korean structured-light 3D scanners (D-Series, C-Series) with jewelry-specific models, now part of Medit.
 
 ## CNC
 
@@ -187,6 +191,7 @@ A curated list of tools, equipment, instruments, and software across the breadth
 - [Presidium](https://www.presidium.com.sg) - Handheld gem testers, refractometers, and color graders.
 - [Sarine Galaxy](https://www.sarine.com) - Inclusion mapping and AI-assisted diamond grading hardware.
 - [Yehuda Sherlock](https://www.yehuda.com) - Synthetic-diamond detection devices used in retail.
+- [Bruker XRF Analyzers](https://www.bruker.com/en/products-and-solutions/elemental-analyzers/handheld-xrf-spectrometers.html) - X-ray fluorescence spectrometers used in gem labs for trace-element analysis, treatment identification, and origin work.
 
 ## Synthetic Gemstone Production
 
