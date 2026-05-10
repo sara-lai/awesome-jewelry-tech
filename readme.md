@@ -92,6 +92,7 @@ A curated list of tools, equipment, instruments, and software across the breadth
 
 - [Balestri Technologies](https://www.balestritechnologies.com/en/) - Italian production and refining equipment for goldsmiths.
 - [GemOro XRF Analyzer](https://www.gemoro.com/) - Handheld non-destructive XRF for instant karat verification, alloy composition, plating detection, and counterfeit screening in jewelry.
+- [Bruker XRF Analyzers](https://www.bruker.com/en/products-and-solutions/elemental-analyzers/handheld-xrf-spectrometers.html) - X-ray fluorescence spectrometers used in gem labs for trace-element analysis, treatment identification, and origin work.
 - [IKOI](https://www.ikoi.it/) - Refining and induction-melting systems for precious metals.
 - [Italimpianti Orafi](https://www.italimpianti.it/en/) - Italian refining and recycling systems built specifically for jewelry production.
 
@@ -191,7 +192,6 @@ A curated list of tools, equipment, instruments, and software across the breadth
 - [Presidium](https://www.presidium.com.sg) - Handheld gem testers, refractometers, and color graders.
 - [Sarine Galaxy](https://www.sarine.com) - Inclusion mapping and AI-assisted diamond grading hardware.
 - [Yehuda Sherlock](https://www.yehuda.com) - Synthetic-diamond detection devices used in retail.
-- [Bruker XRF Analyzers](https://www.bruker.com/en/products-and-solutions/elemental-analyzers/handheld-xrf-spectrometers.html) - X-ray fluorescence spectrometers used in gem labs for trace-element analysis, treatment identification, and origin work.
 
 ## Synthetic Gemstone Production
 
